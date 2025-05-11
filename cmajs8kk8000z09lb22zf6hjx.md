@@ -47,8 +47,8 @@ Beyond the exciting new features, version 1.3.0 includes a range of improvements
 * **Dependency Updates:** Various technical dependencies within the app have been updated to ensure optimal efficiency and security.
     
 
-We strongly encourage all DisCorkie users to update to version **1.3.0** to take advantage of these fantastic new features and improvements. Your feedback is invaluable in helping us shape the future of DisCorkie, and we're excited for you to experience this latest release!
+Are you interested? Dowload DisCorkie now!  
 
-Thank you for being a part of the DisCorkie community!
+%[https://discorkie.appoutlet.dev/] 
 
 **The AppOutlet Team**
