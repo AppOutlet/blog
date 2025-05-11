@@ -3,6 +3,7 @@ title: "Introducing DisCorkie"
 datePublished: Mon Mar 24 2025 12:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmajutmr8000309jyc4hf16ll
 slug: introducing-discorkie
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SYTO3xs06fU/upload/279c26ac9afb2333f5c7801bef2c2c03.jpeg
 tags: linux, android, windows, applications, discorkie, appoutlet
 
 ---
