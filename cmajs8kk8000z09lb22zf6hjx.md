@@ -52,5 +52,3 @@ We strongly encourage all DisCorkie users to update to version **1.3.0** to take
 Thank you for being a part of the DisCorkie community!
 
 **The AppOutlet Team**
-
-%%[discorkie-download]
