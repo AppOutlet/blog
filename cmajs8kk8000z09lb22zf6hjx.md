@@ -4,7 +4,7 @@ datePublished: Sun May 11 2025 15:01:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmajs8kk8000z09lb22zf6hjx
 slug: discorkie-version-130-is-here
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746975955090/7ef259b5-0ba2-4648-ac99-5244cd935720.png
-tags: app-development, discourse, release-notes, forum, discorkie
+tags: app-development, discourse, release-notes, forum, discorkie, discorkie-changelog
 
 ---
 
