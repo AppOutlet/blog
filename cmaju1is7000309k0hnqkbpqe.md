@@ -4,7 +4,7 @@ datePublished: Mon Mar 24 2025 12:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmaju1is7000309k0hnqkbpqe
 slug: discorkie-113-is-here
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746978648478/901961bf-4e36-421c-963a-18caaa4f7b77.png
-tags: search, images, manager, settings, about, discourse, forum, discorkie, discorkie-release-notes
+tags: search, images, manager, settings, about, discourse, forum, discorkie
 
 ---
 
